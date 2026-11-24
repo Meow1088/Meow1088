@@ -89,10 +89,10 @@ repo con tự kéo về khi cần, nhẹ và gọn.
 ### 📊 Thống kê
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Meow1088&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Meow1088&theme=tokyonight&hide_border=true&v=2" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meow1088&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meow1088&theme=tokyo-night&hide_border=true&area=true&v=2" />
 </p>
 
 <!-- Rắn ăn ô đóng góp (do GitHub Action ở .github/workflows/snake.yml sinh ra) -->
