@@ -35,9 +35,10 @@ building:  "mọi thứ tự chạy, mình chỉ việc đọc báo cáo"
 <td width="50%" valign="top">
 
 #### 🌙 [An Lịch](https://github.com/Meow1088/an-lich-app)
-Lịch âm Việt Nam cho Android, viết bằng **Flutter**.
-Chạy **offline hoàn toàn**, **không quảng cáo** —
-mở ra là xem ngày âm, gọn nhẹ, không rườm rà.
+Lịch âm Việt Nam cho Android, viết bằng **Flutter**:
+âm lịch, ngày giờ hoàng đạo, xem ngày tốt, **tử vi đẩu số**,
+phong thủy bát trạch, widget màn hình chính.
+Chạy **offline hoàn toàn**, **không quảng cáo**, 235 unit test.
 
 `Dart` `Flutter` `Android`
 
