@@ -78,6 +78,14 @@ repo con tự kéo về khi cần, nhẹ và gọn.
 </tr>
 </table>
 
+### 🧰 Công cụ mã nguồn mở
+
+| | Repo | Làm gì |
+|---|---|---|
+| 💹 | [**goldfx-vn**](https://github.com/Meow1088/goldfx-vn) | Crawler giá vàng & tỷ giá VN từ 7 nguồn (VCB, BIDV, TCB, SJC, PNJ, DOJI, BTMC) → SQLite + REST API (FastAPI) + cảnh báo Telegram khi nguồn hỏng |
+| 🎬 | [**showreel-from-code**](https://github.com/Meow1088/showreel-from-code) | Video 12 giây mà mọi điểm ảnh, mọi nốt nhạc đều là code: `numpy` + `pillow` + `ffmpeg`, có QA gate tự kiểm |
+| 🎧 | [**yt-audio-tool**](https://github.com/Meow1088/yt-audio-tool) | Bộ tải audio YouTube portable cho Windows (yt-dlp + ffmpeg): lọc theo thời lượng, tìm theo tên bài, kiểm tra file tải về |
+
 ### 🧪 Thử nghiệm đã qua
 
 | | Dự án | Mô tả |
