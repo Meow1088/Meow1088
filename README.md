@@ -30,12 +30,52 @@ building:  "mọi thứ tự chạy, mình chỉ việc đọc báo cáo"
 
 ### 🚀 Đang làm
 
-| | Dự án | Mô tả |
-|---|---|---|
-| 📚 | [**ai-library**](https://github.com/Meow1088/ai-library) | Thư viện repo tham khảo cho Claude Code + Codex |
-| 🌙 | **An Lịch** | Lịch âm Việt Nam, offline, không quảng cáo (Flutter) |
-| 🖥️ | **Homelab** | Proxmox trên Dell 5070: LXC, n8n, Uptime Kuma, Syncthing |
-| 💰 | **Meow-Finance** | Bot sổ thu chi cá nhân trên Telegram |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌙 An Lịch
+Lịch âm Việt Nam cho Android, viết bằng **Flutter**.
+Chạy **offline hoàn toàn**, **không quảng cáo** —
+mở ra là xem ngày âm, gọn nhẹ, không rườm rà.
+
+`Dart` `Flutter` `Android`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💰 Meow-Finance
+Sổ thu chi cá nhân **tự ghi chép**: đọc mail biến động số dư
+từ ngân hàng → lưu **SQLite** → bot **Telegram** gửi báo cáo ngày/tháng.
+Không phải nhập tay từng khoản nữa.
+
+`Python` `SQLite` `Telegram Bot`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ Homelab
+Một máy **Dell OptiPlex 5070** chạy **Proxmox** gánh cả nhà:
+container LXC cho từng dịch vụ, **n8n** tự động hoá, **Uptime Kuma** canh
+máy chết là báo Telegram, **Syncthing** đồng bộ dữ liệu giữa các máy.
+
+`Proxmox` `LXC` `Docker` `n8n`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [ai-library](https://github.com/Meow1088/ai-library)
+Thư viện repo tham khảo cho **Claude Code** và **Codex**.
+Chỉ giữ manifest + script `clone`/`update` + `INDEX` tra cứu —
+repo con tự kéo về khi cần, nhẹ và gọn.
+
+`PowerShell` `Bash` `AI Agents`
+
+</td>
+</tr>
+</table>
 
 ### 🧪 Thử nghiệm đã qua
 
